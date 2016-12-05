@@ -1,0 +1,6 @@
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\bin\Debug\TareasPrograTres.exe.config
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\obj\Debug\TareasPrograTres.csprojResolveAssemblyReference.cache
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\bin\Debug\TareasPrograTres.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\bin\Debug\TareasPrograTres.pdb
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\obj\Debug\TareasPrograTres.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareasPrograTres\TareasPrograTres\obj\Debug\TareasPrograTres.pdb
